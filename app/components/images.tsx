@@ -7,28 +7,28 @@ import Lenis from "@studio-freight/lenis";
 
 const items = [
   {
-    title: "INATA",
+    title: "LINATA",
     category: "INATA",
-    image: "/images/p6.png",
+    image: "/videos/v1.png",
   },
   {
     title: "RED WINE",
-    category: "INATA",
+    category: "LINATA",
     image: "/videos/v1.mp4",
   },
   {
     title: "RED WINE",
-    category: "INATA",
+    category: "LINATA",
     image: "/videos/v2.mp4",
   },
   {
     title: "RED WINE",
-    category: "INATA",
+    category: "LINATA",
     image: "/videos/v3.mp4",
   },
   {
     title: "RED WINE",
-    category: "INATA",
+    category: "LINATA",
     image: "/videos/v4.mp4",
   },
 ];
